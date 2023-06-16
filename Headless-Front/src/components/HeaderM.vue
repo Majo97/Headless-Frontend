@@ -1,7 +1,7 @@
 <template>
   <div class="header">
     <div class="wave-text">
-      <span class="text-shadow">Dev Jobs</span>
+      <span class="text-shadow">DevJobs</span>
     </div>
     <div class="buttons">
       <button class="btn btn-home" @click="goHome">Inicio</button>
