@@ -19,7 +19,8 @@ npm run serve
 Accede a la aplicación en tu navegador web:
 http://localhost:8080
 
-**Nota:** Para que las API funcionen correctamente, es necesario tener clonado el repositorio del backend de Laravel y haber iniciado el servidor Docker correspondiente (por ejemplo, Laravel Sail). Asegúrate de seguir los pasos de instalación del backend antes de ejecutar el proyecto de Vue.
+**Nota:** Para que las API funcionen correctamente, es necesario tener clonado el repositorio del backend de Laravel y haber iniciado el servidor Docker correspondiente: https://github.com/Majo97/HeadlessHeafull-CMS.git
+Asegúrate de seguir los pasos de instalación del backend antes de ejecutar el proyecto de Vue.
 
 ## Descripción de vistas
 
